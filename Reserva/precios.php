@@ -89,7 +89,7 @@
 				<div class="col-md-4">
 					<div class="price-box">
 						<h2 class="pricing-plan">REGULAR</h2>
-						<div class="price"><sup class="currency">$</sup>500.000<small>/COP</small></div>
+						<div class="price"><sup class="currency">$</sup>500<small>/COP</small></div>
 						<p>Plan Regular En Avión Mediano </p>
 						<hr>
 						<ul class="pricing-info">
@@ -102,7 +102,7 @@
 					<div class="price-box popular">
 						<div class="popular-text">POPULAR</div>
 						<h2 class="pricing-plan">VIP</h2>
-						<div class="price"><sup class="currency">$</sup>1.000.000<small>/COP</small></div>
+						<div class="price"><sup class="currency">$</sup>1.000<small>/COP</small></div>
 						<p>Plan Vip En Avión Grande</p>
 						<hr>
 						<ul class="pricing-info">
