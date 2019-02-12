@@ -77,7 +77,7 @@
 				<div class="col-md-4">
 					<div class="price-box">
 						<h2 class="pricing-plan">BASICO</h2>
-						<div class="price"><sup class="currency">$</sup>250.000<small>/COP</small></div>
+						<div class="price"><sup class="currency">$</sup>250<small>/COP</small></div>
 						<p>Plan Basico En Avión Pequeño</p>
 						<hr>
 						<ul class="pricing-info">
