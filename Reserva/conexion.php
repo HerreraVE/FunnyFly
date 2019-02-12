@@ -18,5 +18,5 @@
 				. ") " . $mysqli -> mysqli_connect_error());
 		}
 		else
-}
+
 ?>
