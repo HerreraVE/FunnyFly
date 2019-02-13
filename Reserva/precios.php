@@ -48,7 +48,7 @@
 			
 			<div class="row">
 				<div class="col-sm-4 col-xs-12">
-					<div id="gtco-logo"><a href="index.html"><font color="black">Chiphysi <em>Programacion</em></font></a></div>
+					<div id="gtco-logo"><a href="index.html"><font color="black">FUNNY<em>FLY</em></font></a></div>
 				</div>
 				<div class="col-xs-8 text-right menu-1">
 					<ul>
