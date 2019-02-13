@@ -80,7 +80,7 @@
 					<button class="btn btn-info" ><font size="4" color="green">RESERVAS</font><br><br><img src="images/reserva.png" width="150"></button>
 	</a>
 	<a href="precios.php">				
-					<button color="red" class="btn btn-info"><font size="4" color="red">PRECIOS</font><br><br><img src="images/precio.png" width="150"></button>
+					<button  class="btn btn-info"><font size="4" color="red">PRECIOS</font><br><br><img src="images/precio.png" width="150"></button>
 	</a>
 	<a href="contacto.php">				
 					<button class="btn btn-info"><font size="4"coloro="blue">CONTACTO</font><br><br><img src="images/contacto.png" width="150"></button>
@@ -101,7 +101,7 @@
 	</div>
 	
 
-	<script src="js/jquery.min.js"></script>
+	<!-- <script src="js/jquery.min.js"></script>
 	<script src="js/jquery.easing.1.3.js"></script>
 	<script src="js/bootstrap.min.js"></script>
 	<script src="js/jquery.waypoints.min.js"></script>
@@ -111,7 +111,7 @@
 	<script src="js/jquery.magnific-popup.min.js"></script>
 	<script src="js/magnific-popup-options.js"></script>
 	<script src="js/bootstrap-datepicker.min.js"></script>
-	<script src="js/main.js"></script>
+	<script src="js/main.js"></script> -->
 
 	</body>
 </html>
