@@ -1,14 +1,11 @@
-<!--// Chiphysi programación suscribete -->
-<!--// V 0.1 original -->
-<!--// Autor: Chiphysi  --><!--// Autor: Jhonatan Cardona  -->
-<!--// Derechos de autor(Suscribete)  -->
+
 
 <!DOCTYPE HTML>
 <html>
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>chiphysi</title>
+	<title>FUNNYFLY</title>
 	<meta name="author" content="chiphysi" />
 	<meta property="og:title" content=""/>
 	<meta property="og:image" content=""/>
