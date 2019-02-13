@@ -80,10 +80,10 @@
 					<button class="btn btn-info" ><font size="4" color="green">RESERVAS</font><br><br><img src="images/reserva.png" width="150"></button>
 	</a>
 	<a href="precios.php">				
-					<button class="btn btn-info"><font size="4">PRECIOS</font><br><br><img src="images/precio.png" width="150"></button>
+					<button class="btn btn-info"><font size="4" color="red">PRECIOS</font><br><br><img src="images/precio.png" width="150"></button>
 	</a>
 	<a href="contacto.php">				
-					<button class="btn btn-info"><font size="4">CONTACTO</font><br><br><img src="images/contacto.png" width="150"></button>
+					<button class="btn btn-info"><font size="4"coloro="blue">CONTACTO</font><br><br><img src="images/contacto.png" width="150"></button>
 	</a>				
 </center>							
 					
