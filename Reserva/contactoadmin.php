@@ -98,7 +98,7 @@
 		<?php
 
 				require("conexion3.php");
-				$sql=("SELECT * FROM sugerencia");
+				$sql=("SELECT * FROM sugerencias");
 	
 				$query=mysqli_query($mysqli,$sql);
 
