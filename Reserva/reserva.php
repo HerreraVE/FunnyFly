@@ -108,6 +108,8 @@
 															<option value="USA">USA</option>
 															<option value="Australia">Australia</option>
 															<option value="Singapore">Singapore</option>
+															<option value="España">España</option>
+															<option value="Rusia">Rusia</option>
 														</select>
 													</div>
 												</div>
