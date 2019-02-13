@@ -115,9 +115,9 @@
 													<div class="col-md-12">
 														<label for="destination">Precio</label>
 														<select name="precio" id="destination" class="form-control" required="">
-															<option value="250.000/COP">250.000/COP</option>
-															<option value="500.000/COP">500.000/COP</option>
-															<option value="1.000.000/COP">1.000.000/COP</option>
+															<option value="250">250</option>
+															<option value="500">500</option>
+															<option value="1.000">1.000</option>
 															<option value="600/US">600/US</option>
 															<option value="1000/US">1000/US</option>
 															<option value="2500/US">2500/US</option>
