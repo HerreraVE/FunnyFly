@@ -43,4 +43,4 @@ $db = mysqli_select_db($conexion, $basededatos) or die ("Error conexion al conec
         echo "<script>location.href='inicio.php'</script>";	
     }
      
-?>﻿
+?>
