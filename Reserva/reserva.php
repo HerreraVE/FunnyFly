@@ -110,6 +110,8 @@
 															<option value="Singapore">Singapore</option>
 															<option value="España">España</option>
 															<option value="Rusia">Rusia</option>
+															<option value="Italia">Italia</option>
+															<option value="Japon">Japón</option>
 														</select>
 													</div>
 												</div>
