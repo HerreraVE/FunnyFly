@@ -71,7 +71,7 @@
 					
 
 					<div class="row row-mt-10em">
-						<div class="col-md-12 mt-text animate-box" data-animate-effect="fadeInUp">
+						<div class="col-md-12 mt-text animate-box" data-animate-effect="fadeInUp" face="coolvetica">
 							<h1><center>BIENVENIDO A FUNNYFLY <BR> Plataforma Para Reservar Tus Viajes</BR></h1>	
 						</div>
 					</div>
