@@ -8,7 +8,7 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>chiphysi</title>
+	<title>FUNNYFLY</title>
 	<meta name="author" content="chiphysi" />
 	<meta property="og:title" content=""/>
 	<meta property="og:image" content=""/>
@@ -138,7 +138,7 @@
 
 												<div class="row form-group">
 													<div class="col-md-12">
-														<input type="submit" class="btn btn-primary btn-block" value="Submit" name="reservar">reservar
+														<input type="submit" class="btn btn-primary btn-block" value="Submit">
 													</div>
 												</div>
 											</form>	
