@@ -99,15 +99,10 @@
 			<div class="row copyright">
 				<div class="col-md-12">
 					<p class="pull-left">
-						<small class="block">&copy; 2018</small> 
+						<small class="block"></small> 
 						<small class="block">SISTEMA RESERVAS AVIÓN <a href="https://www.facebook.com/jhonatan.cardona.9237" target="_blank">Chiphysi Programacion</a></small>
 					</p>
-					<p class="pull-right">
-						<ul class="gtco-social-icons pull-right">
-							<li><a href="https://www.youtube.com/channel/UC87BrnQy7Y6iipGvQ6sAJfQ"><i class="icon-linkedin"></i></a></li>
-							<li><a href="https://www.youtube.com/channel/UC87BrnQy7Y6iipGvQ6sAJfQ"><i class="icon-dribbble"></i></a></li>
-						</ul>
-					</p>
+
 				</div>
 			</div>
 
