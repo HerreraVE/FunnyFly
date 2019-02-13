@@ -93,22 +93,6 @@
 	</header>
 
 
-	<footer id="gtco-footer" role="contentinfo">
-		<div class="gtco-container">
-
-			<div class="row copyright">
-				<div class="col-md-12">
-					<p class="pull-left">
-						<small class="block"></small> 
-						<small class="block">SISTEMA RESERVAS AVIÓN <a href="https://www.facebook.com/jhonatan.cardona.9237" target="_blank">Chiphysi Programacion</a></small>
-					</p>
-
-				</div>
-			</div>
-
-		</div>
-	</footer>
-
 
 	</div>
 
