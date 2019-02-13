@@ -138,7 +138,7 @@
 
 												<div class="row form-group">
 													<div class="col-md-12">
-														<input type="submit" class="btn btn-primary btn-block" value="Submit">reservar
+														<input type="submit" class="btn btn-primary btn-block" value="Submit" name="reservar">reservar
 													</div>
 												</div>
 											</form>	
