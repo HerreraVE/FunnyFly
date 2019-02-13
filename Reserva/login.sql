@@ -25,7 +25,7 @@ SET time_zone = "+00:00";
 -- Estructura de tabla para la tabla `login`
 --
 
-CREATE TABLE `login` (
+CREATE TABLE'login' (
   `id` int(11) NOT NULL,
   `user` varchar(250) NOT NULL,
   `password` varchar(250) NOT NULL,
@@ -38,8 +38,8 @@ CREATE TABLE `login` (
 -- Volcado de datos para la tabla `login`
 --
 
-INSERT INTO `login` (`id`, `user`, `password`, `email`, `pasadmin`, `rol`) VALUES
-(1, 'Administrador Jhonatan', '', 'estivenjc292@gmail.com', '1001235846', 1);
+INSERT INTO 'login' (`id`, `user`, `password`, `email`, `pasadmin`, `rol`) VALUES
+(1, 'Administrador Jairo', '', 'jairomorocho5@gmail.com', '1001235846', 1);
 
 --
 -- Índices para tablas volcadas
