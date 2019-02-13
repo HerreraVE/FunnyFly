@@ -8,7 +8,7 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>chiphysi</title>
+	<title>FUNNYFLY</title>
 	<meta name="author" content="chiphysi" />
 	<meta property="og:title" content=""/>
 	<meta property="og:image" content=""/>
@@ -71,7 +71,7 @@
 					
 
 					<div class="row row-mt-10em">
-						<div class="col-md-12 mt-text animate-box" data-animate-effect="fadeInUp" face="arial">
+						<div class="col-md-12 mt-text animate-box" data-animate-effect="fadeInUp" >
 							<h1><center>BIENVENIDO A FUNNYFLY <BR> Plataforma Para Reservar Tus Viajes</BR></h1>	
 						</div>
 					</div>
