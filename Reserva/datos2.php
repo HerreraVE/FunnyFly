@@ -9,7 +9,7 @@
     $usuario = "root"; //en ste caso root por ser localhost
     $password = "pokemonGO99";  //contraseña por si tiene algun servicio de hosting 
     $servidor = "localhost"; //localhost por lo del xampp
-    $basededatos ="sugerencia"; //nombre de la base de datos
+    $basededatos ="sugerencias"; //nombre de la base de datos
 
 
 
