@@ -39,7 +39,7 @@ CREATE TABLE'login' (
 --
 
 INSERT INTO 'login' (`id`, `user`, `password`, `email`, `pasadmin`, `rol`) VALUES
-(1, 'Administrador Jairo', '1729823524', 'jairomorocho5@gmail.com', '1729823524', 1);
+(1, 'Administrador Jairo', '', 'jairomorocho5@gmail.com', '1729823524', 1);
 
 --
 -- Índices para tablas volcadas
