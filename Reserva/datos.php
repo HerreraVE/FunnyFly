@@ -7,7 +7,7 @@
 <?php
 
     $usuario = "root"; //en ste caso root por ser localhost
-    $password = "";  //contraseña por si tiene algun servicio de hosting 
+    $password = "pokemonGO99";  //contraseña por si tiene algun servicio de hosting 
     $servidor = "localhost"; //localhost por lo del xampp
     $basededatos ="reservas"; //nombre de la base de datos
 
