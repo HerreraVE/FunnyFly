@@ -93,12 +93,12 @@
 	</header>
 
 
-
+<!-- 
 	</div>
 
 	<div class="gototop js-top">
 		<a href="#" class="js-gotop"><i class="icon-arrow-up"></i></a>
-	</div>
+	</div> -->
 	
 
 	<script src="js/jquery.min.js"></script>
