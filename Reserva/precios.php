@@ -68,7 +68,7 @@
 		<div class="gtco-container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 text-center gtco-heading">
-					<h2>Chiphysi Programacion</h2>
+					<h2>FUNNYFLY</h2>
 					<p>Elige el mejor plan para ti</p>
 				</div>
 			</div>
