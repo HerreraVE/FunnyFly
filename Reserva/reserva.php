@@ -132,7 +132,7 @@
 												<div class="row form-group">
 													<div class="col-md-12">
 														<label for="date-start">Fecha de viaje</label>
-														<input type="text" name="fecha" id="date-start" class="form-control" ">
+														<input type="text" name="fecha" id="date-start" class="form-control" >
 													</div>
 												</div>
 
