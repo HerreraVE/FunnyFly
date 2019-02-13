@@ -29,7 +29,7 @@
         <p class="text-center" style="margin-top: 17px;">
           <h4 class="text-center all-tittles" style="margin-bottom: 30px;"><font size="6" face="Arial">SISTEMA RESERVA VIAJES</font></h4>
        </p>
-       <h4 class="text-center all-tittles" style="margin-bottom: 30px;"><font size="4" face="Algerian">REGISTRO</font></h4>
+       <h4 class="text-center all-tittles" style="margin-bottom: 30px;"><font size="4" face="Verdna">REGISTRO</font></h4>
              <form action="validaregistro.php" method="POST">
 
             <div class="group-material-login">
