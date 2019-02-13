@@ -72,7 +72,7 @@
 
 					<div class="row row-mt-15em">
 						<div class="col-md-7 mt-text animate-box" data-animate-effect="fadeInUp">
-							<h1>Planeando viaje a cualquier parte del mundo?</h1>	
+							<h1>REALIZA TU VIAJE QUE SIEMPRE AS SOÑADO</h1>	
 						</div>
 						<div class="col-md-4 col-md-push-1 animate-box" data-animate-effect="fadeInRight">
 							<div class="form-wrap">
