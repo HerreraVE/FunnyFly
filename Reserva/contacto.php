@@ -109,9 +109,9 @@
 					<div class="gtco-contact-info">
 						<h3>Contacto Informacion</h3>
 						<ul>
-							<li class="address" color="red">Ecuador, <br>Quito</li>
+							<li class="address" >Ecuador, <br>Quito</li>
 							<li class="phone">+593 5131501</a></li>
-							<li class="email"><a href="https://www.youtube.com/channel/UC87BrnQy7Y6iipGvQ6sAJfQ">ingeniero292@gmail.com</a></li>
+							<li class="email">tumejordecicion@gmail.com</a></li>
 							<li class="url"><a href="https://www.youtube.com/channel/UC87BrnQy7Y6iipGvQ6sAJfQ">Chiphysi Programacion</a></li>
 						</ul>
 					</div>
