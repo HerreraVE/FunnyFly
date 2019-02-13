@@ -109,7 +109,7 @@
 					<div class="gtco-contact-info">
 						<h3>Contacto Informacion</h3>
 						<ul>
-							<li class="address">Colombia, <br>Medellin</li>
+							<li class="address">Ecuador, <br>Quito</li>
 							<li class="phone"><a href="https://www.youtube.com/channel/UC87BrnQy7Y6iipGvQ6sAJfQ">+57 018008956</a></li>
 							<li class="email"><a href="https://www.youtube.com/channel/UC87BrnQy7Y6iipGvQ6sAJfQ">ingeniero292@gmail.com</a></li>
 							<li class="url"><a href="https://www.youtube.com/channel/UC87BrnQy7Y6iipGvQ6sAJfQ">Chiphysi Programacion</a></li>
