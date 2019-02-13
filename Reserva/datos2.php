@@ -7,13 +7,13 @@
 <?php
 
     $usuario = "root"; //en ste caso root por ser localhost
-    $password = "";  //contraseña por si tiene algun servicio de hosting 
+    $password = "pokemonGO99";  //contraseña por si tiene algun servicio de hosting 
     $servidor = "localhost"; //localhost por lo del xampp
     $basededatos ="sugerencia"; //nombre de la base de datos
 
 
 
-$conexion = mysqli_connect  ($servidor,$usuario,"") or die ("Error con el servidor de la Base de datos"); 
+$conexion = mysqli_connect  ($servidor,$usuario,$password) or die ("Error con el servidor de la Base de datos"); 
 
 
 
